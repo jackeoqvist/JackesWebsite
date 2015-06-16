@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#wrapper {
+	width: 800px
+	margin: 0 auto;
+}
+
