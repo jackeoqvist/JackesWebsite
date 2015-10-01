@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	
+	background-color: rgba(0, 255, 255, 0.2);
 }
 
 h1 {
@@ -17,3 +17,13 @@ p {
 	margin: 0 auto;
 }
 
+#box {
+	text-align: center;
+	overflow: hidden;
+
+}
+
+#img {
+	float: left;
+	border-image: circle;
+}
